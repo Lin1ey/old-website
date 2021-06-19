@@ -3,7 +3,7 @@
 
 
 <h2 align="center">About Me</h2>
-![Image of Brian Nguyen](/images/me.jpg){: height="300px" width="350px" style="float:left; padding-right:10px"}
+![Image of Brian Nguyen](/images/me.jpg){: height="270px" width="320px" style="float:left; padding-right:10px"}
 My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. I'm interested in the field of software development, whether it is webdevelopment or app development and I'm also interested in game development.
 <br><br>
 <br><br>
