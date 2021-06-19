@@ -2,10 +2,4 @@ theme: jekyll-theme-slate
   
 title: Brian Nguyen # your name (or website title) here
 logo: "/images/me.jpg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  My name is Brian Nguyen and I am a senior in computer science at Virginia Tech. I'm interested in the field of software development and game development.
-  <br><br>
-  Email: brnguyen2017@gmail.com
-  <br><br>
-  
-  <a href="https://www.linkedin.com/in/brian-nguyen-2000/">View My LinkedIn Profile</a>
+
