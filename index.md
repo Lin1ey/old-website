@@ -1,6 +1,11 @@
 <h1 align="center">Welcome to my Github Page</h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Table of Contents</h2>
+<a href="#about">About Me</a>
+<a href="#projects">Projects</a>
+<a href="#contact">Contact Me</a>
+
+<h2 align="center" id="about">About Me</h2>
 <p align="center">
 <img src="/images/me.jpg" align="center" width="270" height="320">
 </p>
@@ -9,35 +14,11 @@ My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. 
 
 I am most proficent in Java, but I have also used Python, C, C#, and JavaScript. I love to combine my skills I've learnt and personal interests for projects I do for both fun and practical use. I don't let challenges stop me and I am more than willing to learn whatever I need to complete my goals.
 
-<br><br>
-<br><br>
-<a href="#link">Ve</a>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+<h2 align="center" id="projects">Projects</h2>
+
+<h2 align="center" id="contact">Contact Me</h2>
   
-  <a id="link" href="https://www.linkedin.com/in/brian-nguyen-2000/">View My LinkedIn Profile</a>
-  
-  ![Image of Brian Nguyen](){: height="270px" width="320px" style="float:left; padding-right:10px"}
+<a href="https://www.linkedin.com/in/brian-nguyen-2000/">View My LinkedIn Profile</a>
+<a href="https://www.github.com/Lin1ey">View My Github Profile</a>
+<a href="mailto:brnguyen2017@gmail.com">Email: brnguyen2017@gmail.com</a>
 
