@@ -1,5 +1,22 @@
 # Welcome to my github
 
+<img src="/images/me.jpg" align="left" width="200" height="220">
+## About
+<br/>
+<br/>
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Lin1ey/Lin1ey.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
