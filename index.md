@@ -19,14 +19,14 @@ I am most proficent in Java, but I have also used Python, C, C#, and JavaScript.
 
 <h2 align="center" id="projects">Projects</h2>
 
-![GIS](/images/Java/GIS/Henrico_County_GIS.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+![GIS](/images/GIS/Henrico_County_GIS.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
 ### [GIS](/GIS.md) 
 
 Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
 
 <br><br>
 
-![SSAD](/images/Java/SSAD/Weighted_Graph.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+![SSAD](/images/SSAD/Weighted_Graph.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
 ### [SSAD](/SSAD.md) 
 
 A program that will perform Dijkstra's Shortest Paths Algorithm for a given weighted graph
@@ -34,7 +34,7 @@ A program that will perform Dijkstra's Shortest Paths Algorithm for a given weig
 <br><br>
 <br><br>
 
-![SSAD](/images/CSharp/Type-Two/Title_Screen.PNG){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+![SSAD](/images/Type-Two/Title_Screen.PNG){: height="150px" width="200px" style="float:left; padding-right:10px"} 
 ### [Type-Two](/Type-Two.md) 
 
 A game created in 48 hours for the Spring 2019 VTGP Club GameJam by a group of 5
