@@ -33,5 +33,5 @@ Credits:
 
 ## Download/Code
 
-[Type-Two](/zip_files/typetwofinal.zip)
+[Type-Two](/zip_files/Type-Two/typetwofinal.zip)
 
