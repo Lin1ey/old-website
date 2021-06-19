@@ -25,7 +25,6 @@ It is an algorithm that when given a weighted graph and a starting vertex, it wi
 
 ## Download/Code
 
----
 
 This was a project for Data Structures and Algorithms class in Spring 2021. Due to honor code I am unable to show the code publically. If you wish to see it, please reach out to my email brnguyen2017@gmail.com
 
