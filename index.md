@@ -19,9 +19,8 @@ I am most proficent in Java, but I have also used Python, C, C#, and JavaScript.
 
 <h2 align="center" id="projects">Projects</h2>
 
-IMG | DESC
-<img src="/images/Java/GIS/Henrico_County_GIS.jpg" align="center" width="150" height="200"> | GIS - Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
-IMG 2 | DESC 2
+<img src="/images/Java/GIS/Henrico_County_GIS.jpg" align="left" width="150" height="200"> GIS - Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
+
 
 <h2 align="center" id="contact">Contact Me</h2>
   
