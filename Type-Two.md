@@ -18,17 +18,17 @@ Credits:
 ## Images
 
 
-<img src="images/CSharp/Type-Two/Title_Screen.PNG"/>
+<img src="images/Type-Two/Title_Screen.PNG"/>
 
-<img src="images/CSharp/Type-Two/Sniper_Minigame_Prompt.PNG"/>
+<img src="images/Type-Two/Sniper_Minigame_Prompt.PNG"/>
 
-<img src="images/CSharp/Type-Two/Sniper_Minigame_Game.PNG"/>
+<img src="images/Type-Two/Sniper_Minigame_Game.PNG"/>
 
-<img src="images/CSharp/Type-Two/Type_To_Prompt.PNG"/>
+<img src="images/Type-Two/Type_To_Prompt.PNG"/>
 
-<img src="images/CSharp/Type-Two/Type_To_Game.PNG"/>
+<img src="images/Type-Two/Type_To_Game.PNG"/>
 
-<img src="images/CSharp/Type-Two/Game_Over_Screen.PNG"/> 
+<img src="images/Type-Two/Game_Over_Screen.PNG"/> 
 
 
 ## Download/Code
