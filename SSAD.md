@@ -7,6 +7,10 @@
 
 Project #5 for my Data Structures and Algorithms class in Spring 2021. It was the final project for the class. This assignment put a focus on being able to translate the algorithm into code and the use of a heap for efficiency.
 
+### What is Dijkstra's Shortest Paths Alogrithm?
+
+It is an algorithm that when given a weighted graph and a starting vertex, it will show the shortest pathway from the starting node to any other node.
+
 
 ## Examples
 
