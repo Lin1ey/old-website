@@ -25,14 +25,12 @@ I am most proficent in Java, but I have also used Python, C, C#, and JavaScript.
 Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
 
 <br><br>
-<br><br>
 
 ![SSAD](/images/Java/SSAD/Weighted_Graph.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
 ### [SSAD](/SSAD.md) 
 
 A program that will perform Dijkstra's Shortest Paths Algorithm for a given weighted graph
 
-<br><br>
 <br><br>
 
 
