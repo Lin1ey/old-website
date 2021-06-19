@@ -2,7 +2,5 @@ theme: jekyll-theme-slate
   
 title: Brian Nguyen
 logo: "/images/me.jpg" # your photo (or logo) here
-description: > 
-<br><br>
-[Home](index.md)
-
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  HOME
