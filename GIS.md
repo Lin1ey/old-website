@@ -1,9 +1,8 @@
 # Geographic Coordinate System (GIS)
----
 
 
 ## Introduction/Background
----
+
 **Project description:** A geographic information system that organizes information pertaining to geographic features and provide various kinds of access
 to the information. It is a system that will build and maintain several in-memory index data structures to support these operations:
 
@@ -22,58 +21,8 @@ This was a project for my Data Structures and Algorithms class in Spring 2021. O
 - File and String Parsing and Management
 - Encapsulation, Abstraction, and Class Management
 
-## Design Overview
-
----
-
-### 1. Class Management
-
-**MAIN**
-- GIS - the main class, reads the script and processes the commands
-
-**J4 PACKAGE**
-- GISCommands - a command processor class, takes the commands given from the script and performs their actions
-- GISDataBase - the class that holds the data structures and database file
-- GISBufferPool - the buffer pool, holds GISFileEntry classes as entries
-- GISEntry - entries that represent a record from the gis
-
-**Name Index**
-- HashTable - the hash table for name indexing, holds NameEntry classes as entries
-  - the format for the key is "feature_name:country_name"
-- NameEntry - entries that have the key and a list of offsets in the database file
-- Hashable - interface that allows entries be hashable
-
-**Cord Index**
-- prQuadTree - the quad tree for the coord indexing, holds CordEntry classes as entries
-- CordEntry - entry that holds a point and an list of offsets in the database file
-- Point - a class that represents a point in the world
-- Compare2D - interface that allows a comparison between cords
-- Direction - enmu type that represent directions
-
-### 2. Overview of the System Running
-
-This system (will refer as GIS) takes in various arguments on the terminal when ran.
-
-The GIS reads the script, passes all commands read and necessary parameters into the **GISCommands** class. The **GISCommands** class will hold a **GISDataBase** class, which maintains the table, tree, and pool for the system.
-
-When the **world** command is ran, it will initalize the GISCommands class, creating the class that will initalize various data structures.
-
-When the **import** command is ran, it reads the GIS record file, filling the data structures and the data base file with all records that lie within the given boundaries
-
-When the **debug** command is ran, it writes the data structure to a human readable format to the output log
-
-When any **search** commands are ran, it will retrieve all records that match from the data structures. For all these records:
-
-1. It checks if it is already within the buffer pool
-2. If it is already in the buffer pool, the record is already accessible
-3. If it isn't in the buffer pool, it will grab the record from the database file
-4. The ordering in the buffer pool is updated
-5. The record is passed and the requested information is written to the output file
-
-
 
 ## Detailed Look
----
 
 ### 1. Arguments
 
@@ -157,20 +106,5 @@ The last command in the script. It signals to the GIS that the script file is ov
 
 ## Download/Code
 
----
 
 This was a project for Data Structures and Algorithms class in Spring 2021. Due to honor code I am unable to show the code publically. If you wish to see it, please reach out to my email brnguyen2017@gmail.com
-
-
-## Personal Thoughts
-
----
-
-### Design Consideration
-
-As this project was a combination of multiple projects, it was more massive than any previous projects the entire semester. This meant that analyzing and planning the system was much more important. While I analyzed and mapped out the class and structure, I kept two main things in focused on: "independency" and readability. 
-
-**Independency:** As I mapped out what classes would be written in the outline, I did my best to have all classes self contained and all classes were easily defined with a single sentence or two about its purpose. This supports the idea of abstraction and code re-usability. 
-
-**Readability:** As all my code, I make sure to document and comment well enough where if I were to pass this code to another person to maintain/update, they would be able to easily read and understand the overall system.
-
