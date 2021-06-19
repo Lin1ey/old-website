@@ -75,16 +75,16 @@ This command prints to the output file a human-readable version of the selected 
 This command returns the informataion for records that are searched. There are 3 kinds of search commands:
 
 
-##### what_is_at (geographic coordinate)
+1. what_is_at (geographic coordinate)
 For every GIS record in the database file that matches the given <geographic coordinate>, log the offset at
 which the record was found, and the feature name, county name, and state abbreviation
 
-##### what_is (feature name) (state abbreviation)
+2. what_is (feature name) (state abbreviation)
 For every GIS record in the database file that matches the given <feature name> and <state
 abbreviation>, log the offset at which the record was found, and the county name, the primary latitude, and the
 primary longitude
 
-##### what_is_in (geographic coordinate) (half-height) (half-width)
+3. what_is_in (geographic coordinate) (half-height) (half-width)
 For every GIS record in the database file whose coordinates fall within the closed rectangle with the specified height
 and width, centered at the <geographic coordinate>, log the offset at which the record was found, and the
 feature name, the state name, and the primary latitude and primary longitude.
