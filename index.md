@@ -1,13 +1,11 @@
 <h1 align="center">Welcome to my Github Page</h1>
 
-
-
-
 <h2 align="center">About Me</h2>
 <p align="center">
 <img src="/images/me.jpg" align="center" width="270" height="320">
 </p>
-My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. I'm interested in the field of software development, whether it is webdevelopment or app development and I'm also interested in game development.
+My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. I'm interested in the field of software development, whether it is web development or app development, front-end or back-end. I'm also interested in game development. I am most proficent in Java, but I have also used Python, C, C#, and JavaScript. I love to combine my skills I've learnt and personal interests for some projects for fun and for use. I don't let challenges stop me and I am willing to learn whatever I need in order to complete my goals.
+
 <br><br>
 <br><br>
 <a href="#link">Ve</a>
@@ -37,4 +35,6 @@ My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. 
 <br><br>
   
   <a id="link" href="https://www.linkedin.com/in/brian-nguyen-2000/">View My LinkedIn Profile</a>
+  
+  ![Image of Brian Nguyen](){: height="270px" width="320px" style="float:left; padding-right:10px"}
 
