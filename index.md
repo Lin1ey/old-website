@@ -1,8 +1,11 @@
 <h1 align="center">Welcome to my Github Page</h1>
 
 <h2 align="center">Table of Contents</h2>
+
 <a href="#about">About Me</a>
+  
 <a href="#projects">Projects</a>
+  
 <a href="#contact">Contact Me</a>
 
 <h2 align="center" id="about">About Me</h2>
@@ -16,9 +19,15 @@ I am most proficent in Java, but I have also used Python, C, C#, and JavaScript.
 
 <h2 align="center" id="projects">Projects</h2>
 
+NAME/IMG | DESC
+IMG 1 | DESC 1
+IMG 2 | DESC 2
+
 <h2 align="center" id="contact">Contact Me</h2>
   
 <a href="https://www.linkedin.com/in/brian-nguyen-2000/">View My LinkedIn Profile</a>
+
 <a href="https://www.github.com/Lin1ey">View My Github Profile</a>
-<a href="mailto:brnguyen2017@gmail.com">Email: brnguyen2017@gmail.com</a>
+
+Email: brnguyen2017@gmail.com
 
