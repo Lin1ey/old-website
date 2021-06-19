@@ -42,7 +42,7 @@ Only the script file needs to exist before running this. The database file and t
 
 **Format of a GIS Record**
 
-<img src="images/Java/GIS/GIS_Record_Format.png"/>
+<img src="images/GIS/GIS_Record_Format.png"/>
 
 [Example of a GIS Record Data File](/text_files/GIS/VA_MontereySmall.txt)
 
