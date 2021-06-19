@@ -20,7 +20,7 @@ I am most proficent in Java, but I have also used Python, C, C#, and JavaScript.
 <h2 align="center" id="projects">Projects</h2>
 
 NAME/IMG | DESC
-IMG 1 | DESC 1
+![GIS Image](/images/Java/GIS/Henrico_County_GIS.jpg) | GIS - Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
 IMG 2 | DESC 2
 
 <h2 align="center" id="contact">Contact Me</h2>
