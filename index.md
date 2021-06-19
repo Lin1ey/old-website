@@ -20,7 +20,7 @@ I am most proficent in Java, but I have also used Python, C, C#, and JavaScript.
 <h2 align="center" id="projects">Projects</h2>
 
 ![GIS](/images/Java/GIS/Henrico_County_GIS.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-<h3> <a href="GIS.md">GIS</a> </h3>
+<h3> [GIS](/GIS.md) </h3>
 
 Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
 
