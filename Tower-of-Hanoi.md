@@ -7,9 +7,7 @@
 
 ## Demostration
 
-
-
-https://user-images.githubusercontent.com/71103676/124687843-bef9a780-dea3-11eb-8cae-9bb1f9ac9e01.mp4
+![Tower-of_Hanoi-gif](/gifs/Tower-of-Hanoi-Demo.gif)
 
 
 
