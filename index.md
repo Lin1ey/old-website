@@ -42,6 +42,14 @@ A game created in 48 hours for the Spring 2019 VTGP Club GameJam by a group of 5
 <br><br>
 
 
+![SSAD](/images/Tower-of-Hanoi/Tower-of-Hanoi-img.png){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+### [Tower of Hanoi](/Tower-of-Hanoi.md) 
+
+A visualization of the Tower of Hanoi puzzle
+
+<br><br>
+
+
 
 
 <h2 align="center" id="contact">Contact Me</h2>
