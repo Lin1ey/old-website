@@ -7,3 +7,9 @@
 
 
 ## Demostration
+
+![Basic Math Work Demo](/gifs/Basic-Math-Work-Demo-Gif.gif)
+
+## Link
+
+[Link to the Basic Math Work](/Basic-Math-Work/basic-math-work.html)
