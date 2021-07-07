@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Math Work</title>
+    <link rel="stylesheet" href="basic-math-work-style.css" />
+  </head>
+  <body>
+    <div class="window-container">
+      <div class="window">
+        <div class="col" id="left-col">
+          <div class="section" id="left-top">
+            <div class="score">
+              <h3 class="score-label" id="correct-label">Correct</h3>
+              <p class="score-num" id="correct-score">0</p>
+            </div>
+            <div class="score">
+              <h3 class="score-label" id="wrong-label">Wrong</h3>
+              <p class="score-num" id="wrong-score">0</p>
+            </div>
+            <div class="button-container">
+              <button type="button" class="btn" id="reset-btn">Reset Score</button>
+            </div>
+          </div>
+          <div class="section" id="left-bot"> 
+            <p id="mes-board">
+              Select what type of problems on the top right.
+              Generate a random math problem by clicking the Start button on the bottom right.
+              The use of the timer is optional.
+            </p>
+          </div>
+        </div>
+        <div class="col" id="mid-col">
+          <div class="section" id="mid-top">
+            <div class="op-left">
+              <p class="value" id="op-value"></p>
+            </div>
+            <div class="op-right">
+              <p class="value" id="top-value"></p>
+              <p class="value" id="bot-value"></p>
+            </div>
+          </div>
+          <div class="section" id="mid-bot">
+            <input type="text" class="input" id="input-box">
+            <button type="submit" class="btn" id="submit-btn">Submit</button>
+          </div>
+        </div>
+        <div class="col" id="right-col">
+          <div class="section" id="right-top">
+            <h2 class="section-header" id="op-selection">Operation Selection</h2>
+            <div class="checkbox">
+              <input type="checkbox" class="checkbox-click" id="add-checkbox" name="add-checkbox" onclick="updateOpList(id)">
+              <label for="add-checkbox">Addition</label>
+            </div>
+            <div class="checkbox">
+              <input type="checkbox" class="checkbox-click" id="sub-checkbox" name="sub-checkbox" onclick="updateOpList(id)">
+              <label for="sub-checkbox">Subtraction</label>
+            </div>
+            <div class="checkbox">
+              <input type="checkbox" class="checkbox-click" id="mul-checkbox" name="mul-checkbox" onclick="updateOpList(id)">
+              <label for="mul-checkbox">Multiplication</label>
+            </div>
+          </div>
+          <div class="section" id="right-mid">
+            <h2 class="section-header" id="num-selection">Number Range</h2>
+            <div class="num-range-container">
+              <input type="text" class="input" id="low-input"><p class="input-text">Low Number</p>
+            </div>
+            <div class="num-range-container">
+              <input type="text" class="input" id="high-input"><p class="input-text">High Number</p>
+            </div>
+          </div>
+          <div class="section" id="right-bot">
+            <h2 class="section-header" id="timer">Timer</h2>
+            <div class="checkbox">
+              <input type="checkbox" id="timer-checkbox" name="timer">
+              <label for="timer-checkbox">Use Timer</label>
+            </div>
+            <div class="timer-container">
+              <input type="text" class="input" id="sec-input"><p class="input-text">Seconds Remaining</p>
+            </div>
+            <div class="button-container">
+              <button type="button" class="btn" id="start-btn">Start</button>
+              <button type="button" class="btn" id="stop-btn">Stop</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="basic-math-work.js"></script>
+  </body>
+</html>
