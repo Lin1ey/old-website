@@ -52,9 +52,9 @@ A visualization of the Tower of Hanoi puzzle
 <br><br>
 
 ![Basic-Math-Work](/images/Basic-Math-Work/4-basic-operations.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-### [Type-Two](/Type-Two.md) 
+### [Basic Math Work](/Basic-Math-Work.md) 
 
-A game created in 48 hours for the Spring 2019 VTGP Club GameJam by a group of 5
+A tool for practicing basic math operations
 
 <br><br>
 <br><br>
