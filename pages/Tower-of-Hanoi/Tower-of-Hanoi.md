@@ -1,6 +1,5 @@
 # Tower of Hanoi
 
-
 ## Introduction/Background
 
 **Project description:** The Tower of Hanoi puzzle visualized. A project for CS2114: Software Design & Data Structures.

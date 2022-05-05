@@ -12,24 +12,17 @@
 <p align="center">
 <img src="/images/me.jpg" align="center" width="200" height="250">
 </p>
-My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. I'm open to many fields and willing to explore, but the ones that interest me the most are  software development, web development, and game development. 
+My name is Brian Nguyen and I am a senior in Computer Science at Virginia Tech. I'm open to many fields and willing to explore, but the ones that interest me the most are software development, web development, and game development. 
 <br><br>
 
 I am most proficent in Java and Python, but I have also used C, C#, Scala, and JavaScript. I love to combine my skills I've learnt and personal interests for projects I do for both fun and practical use. I don't let challenges stop me and I am more than willing to learn whatever I need to complete my goals.
 
 <h2 align="center" id="projects">Projects</h2>
 
-![GIS](/images/GIS/Henrico_County_GIS.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-### [GIS](/GIS.md) 
+![GIS](/pages/GIS/images/Henrico_County_GIS.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+### [GIS](/pages/GIS/GIS.md) 
 
 Geographic Information System that will build and maintain several in-memory index data structures to support multiple operations
-
-<br><br>
-
-![SSAD](/images/SSAD/Weighted_Graph.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-### [SSAD](/SSAD.md) 
-
-A program that will perform Dijkstra's Shortest Paths Algorithm for a given weighted graph
 
 <br><br>
 <br><br>
@@ -43,7 +36,7 @@ A game created in 48 hours for the Spring 2019 VTGP Club GameJam by a group of 5
 <br><br>
 
 
-![Tower-Of-Hanoi](/images/Tower-of-Hanoi/Tower_of_Hanoi_img.PNG){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+![Tower-Of-Hanoi](/pages/Tower-of-Hanoi/images/Tower_of_Hanoi_img.PNG){: height="150px" width="200px" style="float:left; padding-right:10px"} 
 ### [Tower of Hanoi](/Tower-of-Hanoi.md) 
 
 A visualization of the Tower of Hanoi puzzle
@@ -51,7 +44,7 @@ A visualization of the Tower of Hanoi puzzle
 <br><br>
 <br><br>
 
-![Basic-Math-Work](/images/Basic-Math-Work/4-basic-operations.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
+![Basic-Math-Work](/pages/Basic-Math-Work/images/4-basic-operations.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
 ### [Basic Math Work](/Basic-Math-Work.md) 
 
 A tool for practicing basic math operations
