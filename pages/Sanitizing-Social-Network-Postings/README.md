@@ -54,22 +54,22 @@ Using the make clean will clear all generated files from the Makefile
 
 ### Showcase of running the Makefile
 
-![Showcasing-make-run](/images/showcase_of_running_the_code.jpg "make run")
+![Showcasing-make-run](/pages/Sanitizing-Social-Network-Postings/images/showcase_of_running_the_code.jpg "make run")
 
 Output of Makefile underlined in red
 
 ### Showcase of cleaning the files created by the Makefile
 
-![Showcasing-make-clean](/images/showcase_of_cleaning_up.PNG "make clean")
+![Showcasing-make-clean](/pages/Sanitizing-Social-Network-Postings/images/showcase_of_cleaning_up.PNG "make clean")
 
 ### Candidate Ellen and Interviewer Rich Results
 
-![Ellen-Rich](/images/ellen_rich_result.PNG "ellen and rich results")
+![Ellen-Rich](/pages/Sanitizing-Social-Network-Postings/images/ellen_rich_result.PNG "ellen and rich results")
 
 ### Candidate Li and Interviewer Annie Results
 
-![Li-Annie](/images/li_annie_result.PNG "li and annie results")
+![Li-Annie](/pages/Sanitizing-Social-Network-Postings/images/li_annie_result.PNG "li and annie results")
 
 ### Candidate Li and Interviewer Jose Results
 
-![Li-Jose](/images/li_jose_result.PNG "li and hose results")
+![Li-Jose](/pages/Sanitizing-Social-Network-Postings/images/li_jose_result.PNG "li and hose results")
