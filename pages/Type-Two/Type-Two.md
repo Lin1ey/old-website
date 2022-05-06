@@ -41,5 +41,5 @@ Credits:
 
 ## Download/Code
 
-![Type-Two](/pages/Type-Two/Type-Two-Game/typetwofinal.zip)
+[Type-Two](/pages/Type-Two/Type-Two-Game/typetwofinal.zip)
 
