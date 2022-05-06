@@ -17,7 +17,7 @@ The social network's visibility rules makes a user's post visible by:
 
 ## Details
 
-A folder of a candidate's info has the following csv files:
+### A folder of a candidate's info has the following csv files:
 
 #### 1. Comments
 The comments and their commenter on the candidate's posts.
@@ -25,19 +25,30 @@ The comments and their commenter on the candidate's posts.
 #### 2. Friends
 To show who are direct friends with others
 
-### 3. Likes
+#### 3. Likes
 The people who like the candidate's posts
 
-### 4. Posts
+#### 4. Posts
 The posts of the candidate
 
-### 5. Permission settings for "my friends only"
+#### 5. Permission settings for "my friends only"
 Setting to set that only direct friends can see direct posts
 
-### 6. Permission Exclude
+#### 6. Permission Exclude
 Permission settings to exclude a user to seeing the poster's posts even though they are friends (they are still able to see the viewer's posts by being friends with the poster's friends)
 
-## How to use
+### Languages
+
+It uses four different languages: 
+
+1. Prolog - The logic runner to determine which posts are questionable 
+2. Scala - The main code driver that reads information to pass on and write to
+3. Java - Used to create a header for the C++ code 
+4. C++ - Takes data from Scala code to pass to the Prolog code to read and gives the Prolog results back to the Scala code
+
+### High Level Language Overview
+
+![High-level-language-overview](/pages/Sanitizing-Social-Network-Postings/images/high-level-language-overview.PNG "high level language overview")
 
 ### Make Run
 Using the command
