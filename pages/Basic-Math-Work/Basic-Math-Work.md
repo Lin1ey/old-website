@@ -12,4 +12,4 @@
 
 ## Link
 
-[Link to the Basic Math Work](/Basic-Math-Work/basic-math-work.html)
+[Link to the Basic Math Work](/basic-math-work.html)
