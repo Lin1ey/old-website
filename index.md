@@ -52,7 +52,7 @@ A tool for practicing basic math operations
 <br><br>
 <br><br>
 
-![SSNP](/pages/Sanitizing-Social-Network-Postings/images/high-level-language-overview.PNG){: height="150px" width="500px" style="float:left; padding-right:10px"} 
+![SSNP](/pages/Sanitizing-Social-Network-Postings/images/high-level-language-overview.PNG){: height="150px" width="500px"} 
 ### [Sanitizing-Social-Network-Postings](/pages/Sanitizing-Social-Network-Postings/SSNP.md) 
 
 A program that returns "questionable posts" of a candidate's social network.
