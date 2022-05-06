@@ -44,7 +44,7 @@ Only the script file needs to exist before running this. The database file and t
 
 <img src="images/GIS_Record_Format.png"/>
 
-[Example of a GIS Record Data File](/text_files/GIS/VA_MontereySmall.txt)
+[Example of a GIS Record Data File](/GIS-Text-Files/VA_MontereySmall.txt)
 
 ### 3. Script Commands and Format
 
@@ -100,9 +100,9 @@ expressed in the same DMS format that is used in the GIS record files
 
 The last command in the script. It signals to the GIS that the script file is over
 
-[Example of a Script File](/text_files/GIS/DemoScript05.txt)
+[Example of a Script File](/GIS-Text-Files/DemoScript05.txt)
 
-[Example of a Output Log File](/text_files/GIS/DemoLog05.txt)
+[Example of a Output Log File](/GIS-Text-Files/DemoLog05.txt)
 
 
 
