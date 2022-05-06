@@ -3,7 +3,7 @@ theme: jekyll-theme-slate
 title: Brian Nguyen
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   <a href="https://lin1ey.github.io">Home</a>
+   [Home](https://lin1ey.github.io "Homepage")
   
 
   
