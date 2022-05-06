@@ -28,7 +28,7 @@ Geographic Information System that will build and maintain several in-memory ind
 <br><br>
 
 ![Type-Two](/pages/Type-Two/images/Title_Screen.PNG){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-### [Type-Two](/Type-Two.md) 
+### [Type-Two](/pages/Type-Two/Type-Two.md) 
 
 A game created in 48 hours for the Spring 2019 VTGP Club GameJam by a group of 5
 
@@ -37,7 +37,7 @@ A game created in 48 hours for the Spring 2019 VTGP Club GameJam by a group of 5
 
 
 ![Tower-Of-Hanoi](/pages/Tower-of-Hanoi/images/Tower_of_Hanoi_img.PNG){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-### [Tower of Hanoi](/Tower-of-Hanoi.md) 
+### [Tower of Hanoi](/pages/Tower-of-Hanoi/Tower-of-Hanoi.md) 
 
 A visualization of the Tower of Hanoi puzzle
 
@@ -45,7 +45,7 @@ A visualization of the Tower of Hanoi puzzle
 <br><br>
 
 ![Basic-Math-Work](/pages/Basic-Math-Work/images/4-basic-operations.jpg){: height="150px" width="200px" style="float:left; padding-right:10px"} 
-### [Basic Math Work](/Basic-Math-Work.md) 
+### [Basic Math Work](/pages/Basic-Math-Work/Basic-Math-Work.md) 
 
 A tool for practicing basic math operations
 
