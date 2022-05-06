@@ -26,17 +26,17 @@ Credits:
 ## Images
 
 
-<img src="/images/Title_Screen.PNG"/>
+<img src="/pages/Type-Two/images/Title_Screen.PNG"/>
 
-<img src="/images/Sniper_Minigame_Prompt.PNG"/>
+<img src="/pages/Type-Two/images/Sniper_Minigame_Prompt.PNG"/>
 
-<img src="/images/Sniper_Minigame_Game.PNG"/>
+<img src="/pages/Type-Two/images/Sniper_Minigame_Game.PNG"/>
 
-<img src="/images/Type_To_Prompt.PNG"/>
+<img src="/pages/Type-Two/images/Type_To_Prompt.PNG"/>
 
-<img src="/images/Type_To_Game.PNG"/>
+<img src="/pages/Type-Two/images/Type_To_Game.PNG"/>
 
-<img src="/images/Game_Over_Screen.PNG"/> 
+<img src="/pages/Type-Two/images/Game_Over_Screen.PNG"/> 
 
 
 ## Download/Code
