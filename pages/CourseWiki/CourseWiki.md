@@ -37,7 +37,19 @@ Users can buy and sell old and new class materials, including things such as tex
 
 ### Profile
 
-A user can customize their own profile for easier socializing. It also 
+A user can customize their own profile for easier socializing. It also shows the courses the user has enrolled on the courses page.
+
+#### Profile Demo
+
+LINK
+
+### Technical Details
+
+The web application is created using React.js, styled using the material-ui library.
+
+For storage and database purposes, we are using Firebase for info retrival and storage.
+
+It also uses python with flask for a bit of backend functionality.
 
 ## Download/Code
 
