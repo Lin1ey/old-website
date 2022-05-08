@@ -53,4 +53,4 @@ It also uses python with flask for a bit of backend functionality.
 
 ## Download/Code
 
-[Link To The Github Repo](https://github.com/nickyhuynh1/CourseProject)
+Contains private key for database, cant share yet
